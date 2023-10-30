@@ -4,32 +4,29 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 
 ## Table of Contents
-1) About the project
-2) Getting Started
-    * Prerequisites
-    * Installation
-3) Usage
-4) Roadmap
-5) License
-6) Contact
-7) Acknowledgement
+1. About the project
+1. Installation
+1. Usage
+1. Roadmap
+1. License
+1. Contact
+1. Acknowledgement
 
 ## About The Project
 This is part of my AIcore course, this project is to create a hangman game using GitHub and Python. Each milestone python file is an improvement on the other.
 
-## Getting Started
-### Prerequesities
-...
-### Installation
-...
+## Installation
+Clone to repo  
+git clone https://github.com/your_username_/Project-Name.git
 
 ## Usage
-Guess a letter in the word, must be a single alphabetical character. Then Checks if in 
+Run mileston_5.py and simply play hangman, guess a letter and try to get the word before you run out of lives.
 
 ## Roadmap
 * milestone_2 is where I created the variables for the game.
-* milestone_3 is where I checked if the guessed character is in the word.
-* milestone_4 is where I created the game class.
+* milestone_3 is where I checked if the guessed character is a valid guess and if it is in the word. Created functions to run what I had coded.
+* milestone_4 is where I created the game class. Defined what happens if letter in word or not.
+* milestone_5 is where I coded the logic of the game and added winning/losing.
 
 ## License
 No License
