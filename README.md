@@ -22,6 +22,8 @@ git clone https://github.com/your_username_/Project-Name.git
 ## Usage
 Run mileston_5.py and simply play hangman, guess a letter and try to get the word before you run out of lives.
 
+![hangmanegcode](https://github.com/luca-dr9/hangman/assets/148899235/204f941f-d561-4deb-9e05-a67a8a2a4b14)
+
 ## Roadmap
 * milestone_2 is where I created the variables for the game.
 * milestone_3 is where I checked if the guessed character is a valid guess and if it is in the word. Created functions to run what I had coded.
